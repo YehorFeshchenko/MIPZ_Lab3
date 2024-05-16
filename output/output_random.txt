@@ -1,0 +1,260 @@
+Class: FakeSeedSequence
+  DIT: 0
+  NOC: 0
+  MIF: 2.727272727272727
+  MHF: 0.030303030303030304
+  AHF: 0.0
+  AIF: 5.0
+  POF: 0.15151515151515152
+  COF: 0.0
+
+Class: Base
+  DIT: 0
+  NOC: 5
+  MIF: 2.727272727272727
+  MHF: 0.030303030303030304
+  AHF: 0.0
+  AIF: 5.0
+  POF: 0.15151515151515152
+  COF: 0.0
+
+Class: TestPhilox
+  DIT: 1
+  NOC: 0
+  MIF: 5.3164556962025316
+  MHF: 0.02531645569620253
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.08860759493670886
+  COF: 0.0
+
+Class: TestPCG64
+  DIT: 1
+  NOC: 0
+  MIF: 5.3164556962025316
+  MHF: 0.02531645569620253
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.08860759493670886
+  COF: 0.0
+
+Class: TestPCG64DXSM
+  DIT: 1
+  NOC: 0
+  MIF: 5.3164556962025316
+  MHF: 0.02531645569620253
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.08860759493670886
+  COF: 0.0
+
+Class: TestMT19937
+  DIT: 1
+  NOC: 0
+  MIF: 5.3164556962025316
+  MHF: 0.02531645569620253
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.08860759493670886
+  COF: 0.0
+
+Class: TestSFC64
+  DIT: 1
+  NOC: 0
+  MIF: 5.3164556962025316
+  MHF: 0.02531645569620253
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.08860759493670886
+  COF: 0.0
+
+Class: TestDefaultRNG
+  DIT: 1
+  NOC: 0
+  MIF: 5.3164556962025316
+  MHF: 0.02531645569620253
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.08860759493670886
+  COF: 0.0
+
+Class: TestSeed
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBinomial
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMultinomial
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMultivariateHypergeometric
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.009569377990430622
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSetState
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIntegers
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.009569377990430622
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRandomDist
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ThrowingFloat
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ThrowingInteger
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBroadcast
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestThread
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSingleEltArrayInput
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRegression
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.08333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: N
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.08333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: M
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.08333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRandint
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.012269938650306749
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyArr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.013888888888888888
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RNG
+  DIT: 0
+  NOC: 6
+  MIF: 5.3164556962025316
+  MHF: 0.02531645569620253
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.08860759493670886
+  COF: 0.0
+

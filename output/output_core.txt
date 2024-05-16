@@ -1,0 +1,5970 @@
+Class: FloatingFormat
+  DIT: 0
+  NOC: 0
+  MIF: 0.2727272727272727
+  MHF: 0.8636363636363636
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.18181818181818182
+  COF: 0.0
+
+Class: IntegerFormat
+  DIT: 0
+  NOC: 0
+  MIF: 0.2727272727272727
+  MHF: 0.8636363636363636
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.18181818181818182
+  COF: 0.0
+
+Class: BoolFormat
+  DIT: 0
+  NOC: 0
+  MIF: 0.2727272727272727
+  MHF: 0.8636363636363636
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.18181818181818182
+  COF: 0.0
+
+Class: ComplexFloatingFormat
+  DIT: 0
+  NOC: 0
+  MIF: 0.2727272727272727
+  MHF: 0.8636363636363636
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.18181818181818182
+  COF: 0.0
+
+Class: _TimelikeFormat
+  DIT: 0
+  NOC: 2
+  MIF: 0.2727272727272727
+  MHF: 0.8636363636363636
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.18181818181818182
+  COF: 0.0
+
+Class: DatetimeFormat
+  DIT: 1
+  NOC: 0
+  MIF: 0.2727272727272727
+  MHF: 0.8636363636363636
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.18181818181818182
+  COF: 0.0
+
+Class: TimedeltaFormat
+  DIT: 1
+  NOC: 0
+  MIF: 0.2727272727272727
+  MHF: 0.8636363636363636
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.18181818181818182
+  COF: 0.0
+
+Class: SubArrayFormat
+  DIT: 0
+  NOC: 0
+  MIF: 0.2727272727272727
+  MHF: 0.8636363636363636
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.18181818181818182
+  COF: 0.0
+
+Class: StructuredVoidFormat
+  DIT: 0
+  NOC: 0
+  MIF: 0.2727272727272727
+  MHF: 0.8636363636363636
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.18181818181818182
+  COF: 0.0
+
+Class: chararray
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.2727272727272727
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: MachArLike
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.7058823529411765
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: finfo
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.7058823529411765
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: iinfo
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.7058823529411765
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: memmap
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.8
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: _typedict
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: format_parser
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.8823529411764706
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: record
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.8823529411764706
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: recarray
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.8823529411764706
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: CallOnceOnly
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: MismatchCAPIError
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0
+  COF: 0
+
+Class: UFuncTypeError
+  DIT: 1
+  NOC: 2
+  MIF: 0.42857142857142855
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.42857142857142855
+  COF: 0.0
+
+Class: _UFuncNoLoopError
+  DIT: 2
+  NOC: 1
+  MIF: 0.42857142857142855
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.42857142857142855
+  COF: 0.0
+
+Class: _UFuncBinaryResolutionError
+  DIT: 3
+  NOC: 0
+  MIF: 0.42857142857142855
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.42857142857142855
+  COF: 0.0
+
+Class: _UFuncCastingError
+  DIT: 2
+  NOC: 2
+  MIF: 0.42857142857142855
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.42857142857142855
+  COF: 0.0
+
+Class: _UFuncInputCastingError
+  DIT: 3
+  NOC: 0
+  MIF: 0.42857142857142855
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.42857142857142855
+  COF: 0.0
+
+Class: _UFuncOutputCastingError
+  DIT: 3
+  NOC: 0
+  MIF: 0.42857142857142855
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.42857142857142855
+  COF: 0.0
+
+Class: _ArrayMemoryError
+  DIT: 1
+  NOC: 0
+  MIF: 0.42857142857142855
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.42857142857142855
+  COF: 0.0
+
+Class: dummy_ctype
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.4
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: _missing_ctypes
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.4
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: c_void_p
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.4
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: _ctypes
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.4
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: _Stream
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.4
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MachAr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: _unspecified
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: errstate
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MinVersion
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: StealRef
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Function
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ParseError
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TypeApi
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: GlobalVarApi
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: BoolValuesApi
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: FunctionApi
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: docstrings
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.6
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: FullTypeDescr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.6
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: FuncNameSuffix
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.6
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TypeDescription
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.6
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Ufunc
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.6
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestABC
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: MyNDArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestResolveDescriptors
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSimpleStridedCall
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestClassGetItem
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayRepr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1016949152542373
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: sub
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1016949152542373
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: DuckCounter
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1016949152542373
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestComplexArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1016949152542373
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArray2String
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1016949152542373
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MultiLine
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1016949152542373
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MultiLineLong
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1016949152542373
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPrintOptions
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1016949152542373
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestContextManager
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1016949152542373
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyArr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: _SequenceLike
+  DIT: 0
+  NOC: 1
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ArrayDunder
+  DIT: 1
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ArrayInterface
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ArrayStruct
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStringDiscovery
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestScalarDiscovery
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyScalar
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestTimeScalars
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNested
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBadSequences
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: mylist
+  DIT: 1
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: baditem
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayLikes
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ArraySubclass
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ArrayLike
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: BadInterface
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: BadSequence
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAsArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSpecialAttributeLookupFailure
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: WeirdArrayLike
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: WeirdArrayInterface
+  DIT: 0
+  NOC: 0
+  MIF: 0.037037037037037035
+  MHF: 0.3333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: data_source
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: Casting
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestChanges
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCasting
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: StringConverterTestCase
+  DIT: 0
+  NOC: 7
+  MIF: 1.9444444444444444
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 1.4736842105263157
+  POF: 0.0
+  COF: 0.0
+
+Class: TestByteorderConverter
+  DIT: 1
+  NOC: 0
+  MIF: 1.9444444444444444
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 1.4736842105263157
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSortkindConverter
+  DIT: 1
+  NOC: 0
+  MIF: 1.9444444444444444
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 1.4736842105263157
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSelectkindConverter
+  DIT: 1
+  NOC: 0
+  MIF: 1.9444444444444444
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 1.4736842105263157
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSearchsideConverter
+  DIT: 1
+  NOC: 0
+  MIF: 1.9444444444444444
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 1.4736842105263157
+  POF: 0.0
+  COF: 0.0
+
+Class: TestOrderConverter
+  DIT: 1
+  NOC: 0
+  MIF: 1.9444444444444444
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 1.4736842105263157
+  POF: 0.0
+  COF: 0.0
+
+Class: TestClipmodeConverter
+  DIT: 1
+  NOC: 0
+  MIF: 1.9444444444444444
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 1.4736842105263157
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCastingConverter
+  DIT: 1
+  NOC: 0
+  MIF: 1.9444444444444444
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 1.4736842105263157
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIntpConverter
+  DIT: 0
+  NOC: 0
+  MIF: 1.9444444444444444
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 1.4736842105263157
+  POF: 0.0
+  COF: 0.0
+
+Class: AbstractTest
+  DIT: 0
+  NOC: 4
+  MIF: 1.263157894736842
+  MHF: 0.10526315789473684
+  AHF: 0.09523809523809523
+  AIF: 0.7619047619047619
+  POF: 0.21052631578947367
+  COF: 0.0
+
+Class: TestEnvPrivation
+  DIT: 0
+  NOC: 0
+  MIF: 1.263157894736842
+  MHF: 0.10526315789473684
+  AHF: 0.09523809523809523
+  AIF: 0.7619047619047619
+  POF: 0.21052631578947367
+  COF: 0.0
+
+Class: Test_X86_Features
+  DIT: 1
+  NOC: 0
+  MIF: 1.263157894736842
+  MHF: 0.10526315789473684
+  AHF: 0.09523809523809523
+  AIF: 0.7619047619047619
+  POF: 0.21052631578947367
+  COF: 0.0
+
+Class: Test_POWER_Features
+  DIT: 1
+  NOC: 0
+  MIF: 1.263157894736842
+  MHF: 0.10526315789473684
+  AHF: 0.09523809523809523
+  AIF: 0.7619047619047619
+  POF: 0.21052631578947367
+  COF: 0.0
+
+Class: Test_ZARCH_Features
+  DIT: 1
+  NOC: 0
+  MIF: 1.263157894736842
+  MHF: 0.10526315789473684
+  AHF: 0.09523809523809523
+  AIF: 0.7619047619047619
+  POF: 0.21052631578947367
+  COF: 0.0
+
+Class: Test_ARM_Features
+  DIT: 1
+  NOC: 0
+  MIF: 1.263157894736842
+  MHF: 0.10526315789473684
+  AHF: 0.09523809523809523
+  AIF: 0.7619047619047619
+  POF: 0.21052631578947367
+  COF: 0.0
+
+Class: TestSFloat
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.047619047619047616
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: myint
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestDateTime
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDateTimeData
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: custom
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBasic
+  DIT: 0
+  NOC: 0
+  MIF: 0.21052631578947367
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.02631578947368421
+  COF: 0.0
+
+Class: TestVecString
+  DIT: 0
+  NOC: 0
+  MIF: 0.21052631578947367
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.02631578947368421
+  COF: 0.0
+
+Class: TestWhitespace
+  DIT: 0
+  NOC: 0
+  MIF: 0.21052631578947367
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.02631578947368421
+  COF: 0.0
+
+Class: TestChar
+  DIT: 0
+  NOC: 0
+  MIF: 0.21052631578947367
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.02631578947368421
+  COF: 0.0
+
+Class: TestComparisons
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestComparisonsMixed1
+  DIT: 1
+  NOC: 0
+  MIF: 0.21052631578947367
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.02631578947368421
+  COF: 0.0
+
+Class: TestComparisonsMixed2
+  DIT: 1
+  NOC: 0
+  MIF: 0.21052631578947367
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.02631578947368421
+  COF: 0.0
+
+Class: TestInformation
+  DIT: 0
+  NOC: 0
+  MIF: 0.21052631578947367
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.02631578947368421
+  COF: 0.0
+
+Class: TestMethods
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestOperations
+  DIT: 0
+  NOC: 0
+  MIF: 0.21052631578947367
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.02631578947368421
+  COF: 0.0
+
+Class: _DeprecationTestCase
+  DIT: 0
+  NOC: 41
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: _VisibleDeprecationTestCase
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDatetime64Timezone
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayDataAttributeAssignmentDeprecation
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBinaryReprInsufficientWidthParameterForRepresentation
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDTypeAttributeIsDTypeDeprecation
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: dt
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: vdt
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestTestDeprecated
+  DIT: 0
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNonNumericConjugate
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNPY_CHAR
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPyArray_AS1D
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPyArray_AS2D
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDatetimeEvent
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestTruthTestingEmptyArrays
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBincount
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestGeneratorSum
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFromstring
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFromStringAndFileInvalidData
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: Test_GetSet_NumericOps
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestShape1Fields
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNonZero
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestToString
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDTypeCoercion
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: BuiltInRoundComplexDType
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIncorrectAdvancedIndexWithEmptyResult
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNonExactMatchDeprecation
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMatrixInOuter
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: FlatteningConcatenateUnsafeCast
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDeprecatedUnpickleObjectScalar
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSingleElementSignature
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCtypesGetter
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPartitionBoolIndex
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMachAr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestQuantileInterpolationDeprecation
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMemEventHook
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayFinalizeNone
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: NoFinalize
+  DIT: 0
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAxisNotMAXDIMS
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestLoadtxtParseIntsViaFloat
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestScalarConversion
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPyIntConversion
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDeprecatedGlobals
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRemovedGlobals
+  DIT: 0
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDeprecatedFinfo
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFromnumeric
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMathAlias
+  DIT: 1
+  NOC: 0
+  MIF: 2.484848484848485
+  MHF: 0.0
+  AHF: 0.034482758620689655
+  AIF: 2.8275862068965516
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDLPack
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestBuiltin
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRecord
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSubarray
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: IntLike
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStructuredObjectRefcounting
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStructuredDtypeSparseFields
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMonsterType
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMetadata
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestString
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDtypeAttributeDeletion
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDtypeAttributes
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: user_def_subcls
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDTypeMakeCanonical
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPickling
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPromotion
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFromDTypeAttribute
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDTypeClasses
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFromCTypes
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: PaddedStruct
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: BitfieldStruct
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Union
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Struct
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: PackedStructure
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: BigEndStruct
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: LittleEndStruct
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestUserDType
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: mytype
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.015151515151515152
+  AHF: 0.7058823529411765
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestEinsum
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.10344827586206896
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: CustomException
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.10344827586206896
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: DestructoBox
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.10344827586206896
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Mult
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.10344827586206896
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestEinsumPath
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.10344827586206896
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestErrstate
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: PhysicalQuantity
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.23255813953488372
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: PhysicalQuantity2
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.23255813953488372
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestLogspace
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.23255813953488372
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestGeomspace
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.23255813953488372
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestLinspace
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.23255813953488372
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Arrayish
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.23255813953488372
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPythonFloat
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.5
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestHalf
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSingle
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.5
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDouble
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.5
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestLongdouble
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.5
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFinfo
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.5
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: NonHashableWithDtype
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.5
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIinfo
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.5
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRepr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Dummy
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIndexErrors
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestIndexing
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: SubClass
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Zero
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TupleSubclass
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: SequenceLike
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFieldIndexing
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBroadcastedAssignments
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSubclasses
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFancyIndexingCast
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFancyIndexingEquivalence
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMultiIndexingAutomated
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFloatNonIntegerArgument
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBooleanIndexing
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayToIndexDeprecation
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNonIntegerArrayLike
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMultipleEllipsisError
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCApiAccess
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.12195121951219512
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestTake
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPutMask
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPut
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFileBased
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCommaDecimalPointLocale
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestMemmap
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MemmapSubClass
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyArray2
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.23529411764705882
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestUFunc
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.23529411764705882
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFlags
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: subclass
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: frominterface
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestHash
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAttributes
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestArrayConstruction
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAssignment
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: C
+  DIT: 0
+  NOC: 1
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: bad_sequence
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDtypedescr
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestZeroRank
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestScalarIndexing
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreation
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: x
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Fail
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Map
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Point2
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: A
+  DIT: 0
+  NOC: 3
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestStructured
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBool
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestZeroSizeFlexible
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Boom
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Raiser
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: MyObj
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Sub
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCequenceMethods
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBinop
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Coerced
+  DIT: 1
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: BadPriority
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: LowPriority
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: SomeClass
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: CheckIndex
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: OutClass
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: PowerOnly
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestTemporaryElide
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCAPI
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSubscripting
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFancyIndexing
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStringCompare
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArgmaxArgminCommon
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArgmax
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArgmin
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMinMax
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestNewaxis
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestClip
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCompress
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPutmask
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestLexsort
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIO
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFromBuffer
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFlat
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestResize
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestView
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStats
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.043478260869565216
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestVdot
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDot
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Vec
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: BadObject
+  DIT: 1
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: MatmulCommon
+  DIT: 0
+  NOC: 2
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMatmul
+  DIT: 1
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: add_not_multiply
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: multiply_not_add
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMatmulOperator
+  DIT: 1
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMatmulInplace
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestInner
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestChoose
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestRepeat
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNeighborhoodIter
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStackedNeighborhoodIter
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestWarnings
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMinScalarType
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPEP3118Dtype
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNewBufferProtocol
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: foo
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestArrayCreationCopyArgument
+  DIT: 1
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: RaiseOnBool
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayAttributeDeletion
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayInterface
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Foo
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.043478260869565216
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: DummyArray1
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: DummyArray2
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: DummyArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMapIter
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAsCArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestConversion
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: NotConvertible
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: HasTrunc
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestWhere
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSizeOf
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestHashing
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayPriority
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Bar
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: Other
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBytestringArrayNonzero
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestUnicodeEncoding
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestUnicodeArrayNonzero
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFormat
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCTypes
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestWritebackIfCopy
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArange
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayFinalize
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: SavesBase
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: BadAttributeArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: RaisesInFinalize
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: SuperFinalize
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: MyAlwaysEqual
+  DIT: 0
+  NOC: 2
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: MyAlwaysEqualOld
+  DIT: 1
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: MyAlwaysEqualNew
+  DIT: 1
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: NotArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAlignment
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestViewDtype
+  DIT: 0
+  NOC: 0
+  MIF: 0.029985007496251874
+  MHF: 0.09295352323838081
+  AHF: 0.6071428571428571
+  AIF: 0.023809523809523808
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIterNested
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1111111111111111
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: T
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.043478260869565216
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNonarrayArgs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIsscalar
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBoolScalar
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBoolArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBoolCmp
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSeterr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFloatExceptions
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestTypes
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: NIterError
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFromiter
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyIter
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNonzero
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: BoolErrors
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: FalseThenTrue
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TrueThenFalse
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ThrowsAfter
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIndex
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBinaryRepr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBaseRepr
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayComparisons
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAllclose
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIsclose
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStdVar
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStdVarComplex
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreationFuncs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestLikeFuncs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCorrelate
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestConvolve
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArgwhere
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStringFunction
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRoll
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRollaxis
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMoveaxis
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCross
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIndices
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRequire
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBroadcast
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestKeepdims
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: sub_array
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestTensordot
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.06115107913669065
+  AHF: 0.3333333333333333
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: CreateZeros
+  DIT: 0
+  NOC: 3
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateZerosPlain
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateZerosNested
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: CreateValues
+  DIT: 0
+  NOC: 6
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValuesPlainSingle
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValuesPlainMultiple
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValuesNestedSingle
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValuesNestedMultiple
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ReadValuesPlain
+  DIT: 0
+  NOC: 2
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestReadValuesPlainSingle
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestReadValuesPlainMultiple
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ReadValuesNested
+  DIT: 0
+  NOC: 2
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestReadValuesNestedSingle
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestReadValuesNestedMultiple
+  DIT: 1
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestEmptyField
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCommonType
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMultipleFields
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIsSubDType
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSctypeDict
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBitName
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMaximumSctype
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Test_sctype2char
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestDocStrings
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestScalarTypeNames
+  DIT: 0
+  NOC: 0
+  MIF: 0.6521739130434783
+  MHF: 0.021739130434782608
+  AHF: 0.6428571428571429
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNumPy2Compatibility
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestGetImplementingArgs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: OverrideSub
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: NoOverrideSub
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: B
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: D
+  DIT: 3
+  NOC: 0
+  MIF: 0.16666666666666666
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNDArrayArrayFunction
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayFunctionDispatch
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: DuckArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: TestVerifyMatchingSignatures
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayFunctionImplementation
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNDArrayMethods
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNumPyFunctions
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: ArrayProxy
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayLike
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: MyNoArrayFunctionArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: MyClass
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1836734693877551
+  AHF: 0.7
+  AIF: 0.2
+  POF: 0.0
+  COF: 0.0
+
+Class: Wrapper
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestFromrecords
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPathUsage
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRegression
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.043478260869565216
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: BuggySequence
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.043478260869565216
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyFloat
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: VictimObject
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.043478260869565216
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Subclass
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.043478260869565216
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: OldSqueeze
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.043478260869565216
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestScalarPEP3118
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.1111111111111111
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: B0
+  DIT: 1
+  NOC: 1
+  MIF: 0.16666666666666666
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: C0
+  DIT: 2
+  NOC: 0
+  MIF: 0.16666666666666666
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: HasNew
+  DIT: 0
+  NOC: 1
+  MIF: 0.16666666666666666
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: B1
+  DIT: 1
+  NOC: 0
+  MIF: 0.16666666666666666
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestInherit
+  DIT: 0
+  NOC: 0
+  MIF: 0.16666666666666666
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCharacter
+  DIT: 0
+  NOC: 0
+  MIF: 0.16666666666666666
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyStr
+  DIT: 1
+  NOC: 0
+  MIF: 0.16666666666666666
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyBytes
+  DIT: 1
+  NOC: 0
+  MIF: 0.16666666666666666
+  MHF: 0.16666666666666666
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBaseMath
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPower
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestModulus
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestComplexDivision
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMultiply
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestNegative
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSubtract
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAbs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBitShifts
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: myf_simple1
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: myf_simple2
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0851063829787234
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestRealScalars
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestFromString
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.08333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestExtraArgs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.08333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestFromInt
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.08333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayFromScalar
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.08333333333333333
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAsIntegerRatio
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIsInteger
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBitCount
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAtleast1d
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAtleast2d
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAtleast3d
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestHstack
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestVstack
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestConcatenate
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestBlock
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: _Test_Utility
+  DIT: 0
+  NOC: 6
+  MIF: 1.476923076923077
+  MHF: 0.2923076923076923
+  AHF: 0.0
+  AIF: 6.0
+  POF: 0.015384615384615385
+  COF: 0.0
+
+Class: _SIMD_BOOL
+  DIT: 1
+  NOC: 0
+  MIF: 1.476923076923077
+  MHF: 0.2923076923076923
+  AHF: 0.0
+  AIF: 6.0
+  POF: 0.015384615384615385
+  COF: 0.0
+
+Class: _SIMD_INT
+  DIT: 1
+  NOC: 0
+  MIF: 1.476923076923077
+  MHF: 0.2923076923076923
+  AHF: 0.0
+  AIF: 6.0
+  POF: 0.015384615384615385
+  COF: 0.0
+
+Class: _SIMD_FP32
+  DIT: 1
+  NOC: 0
+  MIF: 1.476923076923077
+  MHF: 0.2923076923076923
+  AHF: 0.0
+  AIF: 6.0
+  POF: 0.015384615384615385
+  COF: 0.0
+
+Class: _SIMD_FP64
+  DIT: 1
+  NOC: 0
+  MIF: 1.476923076923077
+  MHF: 0.2923076923076923
+  AHF: 0.0
+  AIF: 6.0
+  POF: 0.015384615384615385
+  COF: 0.0
+
+Class: _SIMD_FP
+  DIT: 1
+  NOC: 0
+  MIF: 1.476923076923077
+  MHF: 0.2923076923076923
+  AHF: 0.0
+  AIF: 6.0
+  POF: 0.015384615384615385
+  COF: 0.0
+
+Class: _SIMD_ALL
+  DIT: 1
+  NOC: 0
+  MIF: 1.476923076923077
+  MHF: 0.2923076923076923
+  AHF: 0.0
+  AIF: 6.0
+  POF: 0.015384615384615385
+  COF: 0.0
+
+Class: Test_SIMD_MODULE
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestUfuncKwargs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestUfuncGenericLoops
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestUfunc
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: HasComparisons
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyThing
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyA
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestLowlevelAPIAccess
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: call_info_t
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.041666666666666664
+  AHF: 0.25
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: _FilterInvalids
+  DIT: 0
+  NOC: 6
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestConstants
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestOut
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: ArrayWrap
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: FunkyType
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestAdd
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestDivision
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestRemainder
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestDivisionIntegerOverflowsAndDivideByZero
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestCbrt
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestFloat_power
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestLog2
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestExp2
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestLogAddExp2
+  DIT: 1
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestLog
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestExp
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestSpecialFloats
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestFPClass
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestLDExp
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestFRExp
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestAVXUfuncs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestAVXFloat32Transcendental
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestLogAddExp
+  DIT: 1
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestLog1p
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestExpm1
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestHypot
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestHypotSpecialValues
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestArctan2SpecialValues
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestLdexp
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestMaximum
+  DIT: 1
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestMinimum
+  DIT: 1
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestFmax
+  DIT: 1
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestFmin
+  DIT: 1
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestBitwiseUFuncs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestInt
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestFloatingPoint
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestDegrees
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestRadians
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestHeavside
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestSign
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestAbsoluteNegative
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestPositive
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestSpecialMethods
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: with_wrap
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: StoreArrayPrepareWrap
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: Ok
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: Bad
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: with_prepare
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: ASub
+  DIT: 1
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: CSub
+  DIT: 1
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: OverriddenArrayOld
+  DIT: 0
+  NOC: 1
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: OverriddenArrayNew
+  DIT: 1
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: OptOut
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: GreedyArray
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestRationalFunctions
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestRoundingFunctions
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestComplexFunctions
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestSubclass
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: simple
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestFrompyfunc
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: BadArr1
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: BadArr2
+  DIT: 0
+  NOC: 0
+  MIF: 0.0622568093385214
+  MHF: 0.11284046692607004
+  AHF: 0.4117647058823529
+  AIF: 0.0
+  POF: 0.007782101167315175
+  COF: 0.0
+
+Class: TestAccuracy
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestCexp
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestClog
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCsqrt
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCpow
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCabs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCarg
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestSpecialComplexAVX
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestComplexAbsoluteAVX
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestComplexAbsoluteMixedDTypes
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateZeros_1
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateZeros_2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateZeros_1009
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValues_1_UCS2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValues_1_UCS4
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValues_2_UCS2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValues_2_UCS4
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValues_1009_UCS2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCreateValues_1009_UCS4
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: AssignValues
+  DIT: 0
+  NOC: 6
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAssignValues_1_UCS2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAssignValues_1_UCS4
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAssignValues_2_UCS2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAssignValues_2_UCS4
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAssignValues_1009_UCS2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAssignValues_1009_UCS4
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ByteorderValues
+  DIT: 0
+  NOC: 6
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestByteorder_1_UCS2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestByteorder_1_UCS4
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestByteorder_2_UCS2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestByteorder_2_UCS4
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestByteorder_1009_UCS2
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestByteorder_1009_UCS4
+  DIT: 1
+  NOC: 0
+  MIF: 5.294117647058823
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestArrayMemoryError
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestUFuncNoLoopError
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAxisError
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: CommaDecimalPointLocale
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.5
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
