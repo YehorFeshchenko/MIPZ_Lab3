@@ -5,11 +5,12 @@ import chardet
 
 class MetricCalculator(ast.NodeVisitor):
     def __init__(self):
-        self.classes = {}
-        self.inheritance_tree = {}
-        self.methods = {}
-        self.attributes = {}
-        self.couplings = set()
+        self.classes = {}  # Зберігає інформацію про класи та їх базові класи
+        self.inheritance_tree = {}  # Зберігає дерево спадковості класів
+        self.methods = {}  # Зберігає методи для кожного класу
+        self.attributes = {}  # Зберігає атрибути для кожного класу
+        self.couplings = set()  # Зберігає зв'язки між класами
+        self.overridden_methods = set()  # Зберігає перевизначені методи
 
     def visit_ClassDef(self, node):
         class_name = node.name
@@ -26,6 +27,9 @@ class MetricCalculator(ast.NodeVisitor):
         for body_item in node.body:
             if isinstance(body_item, ast.FunctionDef):
                 self.methods[class_name].append(body_item.name)
+                for base in base_classes:
+                    if body_item.name in self.methods.get(base, []):
+                        self.overridden_methods.add(body_item.name)
             elif isinstance(body_item, ast.Assign):
                 for target in body_item.targets:
                     if isinstance(target, ast.Name):
@@ -66,25 +70,29 @@ class MetricCalculator(ast.NodeVisitor):
         total_methods = sum(len(methods) for methods in self.methods.values())
         total_attributes = sum(len(attrs) for attrs in self.attributes.values())
         if total_methods == 0:
-            total_methods = 1  # avoid division by zero
+            total_methods = 1
         if total_attributes == 0:
-            total_attributes = 1  # avoid division by zero
+            total_attributes = 1
 
-        mif = sum(len(self.methods.get(base, [])) for cls in self.classes for base in self.classes[cls]) / total_methods
-        mhf = sum(1 for cls in self.classes for method in self.methods[cls] if method.startswith('_')) / total_methods
-        ahf = sum(1 for cls in self.classes for attr in self.attributes[cls] if attr.startswith('_')) / total_attributes
-        aif = sum(
-            len(self.attributes.get(base, [])) for cls in self.classes for base in self.classes[cls]) / total_attributes
+        inherited_methods = sum(len(self.methods.get(base, [])) for cls in self.classes for base in self.classes[cls])
+        hidden_methods = sum(1 for cls in self.classes for method in self.methods[cls] if method.startswith('_') and method not in self.overridden_methods)
+        hidden_attributes = sum(1 for cls in self.classes for attr in self.attributes[cls] if attr.startswith('_'))
+        inherited_attributes = sum(len(self.attributes.get(base, [])) for cls in self.classes for base in self.classes[cls])
+
+        mif = inherited_methods / total_methods
+        mhf = hidden_methods / total_methods
+        ahf = hidden_attributes / total_attributes
+        aif = inherited_attributes / total_attributes
         pof = self.calculate_pof()
         cof = self.calculate_cof()
 
         return {
-            "MIF": mif,
-            "MHF": mhf,
-            "AHF": ahf,
-            "AIF": aif,
-            "POF": pof,
-            "COF": cof
+            "MIF": mif,  # Відношення успадкованих методів до загальної кількості методів
+            "MHF": mhf,  # Відношення прихованих методів до загальної кількості методів
+            "AHF": ahf,  # Відношення прихованих атрибутів до загальної кількості атрибутів
+            "AIF": aif,  # Відношення успадкованих атрибутів до загальної кількості атрибутів
+            "POF": pof,  # Відношення кількості поліморфних методів до загальної кількості методів
+            "COF": cof   # Відношення кількості зв'язків між класами до загальної кількості можливих зв'язків
         }
 
     def calculate_pof(self):
@@ -98,14 +106,14 @@ class MetricCalculator(ast.NodeVisitor):
             polymorphic_methods += len(base_methods.intersection(self.methods[cls]))
 
         if total_methods == 0:
-            return 0  # avoid division by zero
+            return 0
 
         return polymorphic_methods / total_methods
 
     def calculate_cof(self):
         total_classes = len(self.classes)
         if total_classes < 2:
-            return 0  # avoid division by zero
+            return 0
 
         possible_couplings = total_classes * (total_classes - 1) / 2
         actual_couplings = len(self.couplings)
@@ -170,9 +178,9 @@ def save_metrics_to_file(directory, metrics):
 
 if __name__ == "__main__":
     directory = "numpy_lib//numpy//core"
-    # Other possible modules to analyze
+    # Інші можливі модулі для аналізу
     # directory = "requests_lib"
-    # directory = "numpy_lib//numpy//random"
+    #  directory = "numpy_lib//numpy//random"
     metrics = analyze_directory(directory)
     for class_name, class_metrics in metrics.items():
         print(f"Class: {class_name}")
