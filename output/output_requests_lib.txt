@@ -1,0 +1,790 @@
+Class: PyTest
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: BaseAdapter
+  DIT: 0
+  NOC: 1
+  MIF: 0.1875
+  MHF: 0.125
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.1875
+  COF: 0.0
+
+Class: HTTPAdapter
+  DIT: 1
+  NOC: 0
+  MIF: 0.1875
+  MHF: 0.125
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.1875
+  COF: 0.0
+
+Class: AuthBase
+  DIT: 0
+  NOC: 2
+  MIF: 0.42857142857142855
+  MHF: 0.42857142857142855
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.21428571428571427
+  COF: 0.0
+
+Class: HTTPBasicAuth
+  DIT: 1
+  NOC: 1
+  MIF: 0.42857142857142855
+  MHF: 0.42857142857142855
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.21428571428571427
+  COF: 0.0
+
+Class: HTTPProxyAuth
+  DIT: 2
+  NOC: 0
+  MIF: 0.42857142857142855
+  MHF: 0.42857142857142855
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.21428571428571427
+  COF: 0.0
+
+Class: HTTPDigestAuth
+  DIT: 1
+  NOC: 0
+  MIF: 0.42857142857142855
+  MHF: 0.42857142857142855
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.21428571428571427
+  COF: 0.0
+
+Class: MockRequest
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.24390243902439024
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MockResponse
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.24390243902439024
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: CookieConflictError
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.24390243902439024
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RequestsCookieJar
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.24390243902439024
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RequestException
+  DIT: 1
+  NOC: 15
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: InvalidJSONError
+  DIT: 2
+  NOC: 1
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: JSONDecodeError
+  DIT: 3
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: HTTPError
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ConnectionError
+  DIT: 2
+  NOC: 3
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ProxyError
+  DIT: 3
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: SSLError
+  DIT: 3
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Timeout
+  DIT: 2
+  NOC: 2
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ConnectTimeout
+  DIT: 3
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ReadTimeout
+  DIT: 3
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: URLRequired
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TooManyRedirects
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MissingSchema
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: InvalidSchema
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: InvalidURL
+  DIT: 2
+  NOC: 1
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: InvalidHeader
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: InvalidProxyURL
+  DIT: 3
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ChunkedEncodingError
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: ContentDecodingError
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: StreamConsumedError
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RetryError
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: UnrewindableBodyError
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RequestsWarning
+  DIT: 1
+  NOC: 2
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: FileModeWarning
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RequestsDependencyWarning
+  DIT: 2
+  NOC: 0
+  MIF: 7.5
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RequestEncodingMixin
+  DIT: 0
+  NOC: 1
+  MIF: 0.16279069767441862
+  MHF: 0.37209302325581395
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RequestHooksMixin
+  DIT: 0
+  NOC: 2
+  MIF: 0.16279069767441862
+  MHF: 0.37209302325581395
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Request
+  DIT: 1
+  NOC: 0
+  MIF: 0.16279069767441862
+  MHF: 0.37209302325581395
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: PreparedRequest
+  DIT: 1
+  NOC: 0
+  MIF: 0.16279069767441862
+  MHF: 0.37209302325581395
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Response
+  DIT: 0
+  NOC: 0
+  MIF: 0.16279069767441862
+  MHF: 0.37209302325581395
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: SessionRedirectMixin
+  DIT: 0
+  NOC: 1
+  MIF: 0.24
+  MHF: 0.2
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Session
+  DIT: 1
+  NOC: 0
+  MIF: 0.24
+  MHF: 0.2
+  AHF: 1.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: CaseInsensitiveDict
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.7857142857142857
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: LookupDict
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.7857142857142857
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: VersionedPackage
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 1.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestRequests
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestStream
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: CustomMapping
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: DummyAuth
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyCookiePolicy
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyString
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: MyBytes
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: BadFileObj
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: CustomRedirectSession
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestCaseInsensitiveDict
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMorselToCookieExpires
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestMorselToCookieMaxAge
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestTimeout
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RedirectSession
+  DIT: 1
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestPreparingURLs
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.059322033898305086
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestLookupDict
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestTestServer
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.0
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
+Class: TestSuperLen
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: BoomFile
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: NoLenBoomFile
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: LenFile
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestToKeyValList
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestUnquoteHeaderValue
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestGetEnvironProxies
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIsIPv4Address
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestIsValidCIDR
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestAddressInNetwork
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestGuessFilename
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestExtractZippedPaths
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestContentEncodingDetection
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: TestGuessJSONUTF
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: RegHandle
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.045454545454545456
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0.0
+
+Class: Server
+  DIT: 0
+  NOC: 0
+  MIF: 0.0
+  MHF: 0.7
+  AHF: 0.0
+  AIF: 0.0
+  POF: 0.0
+  COF: 0
+
